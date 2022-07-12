@@ -9,15 +9,13 @@ Shadow-Forum is our Forum where you can get changelogs, updates, roadmaps, and c
 💖 Made possible thanks to these projects 💖
 
 ```
-https://discord.com/
-https://telegram.org/
-https://xenon.bot/ (Backup)
-https://telegram.org/blog/export-and-more (Backup)
+https://freeflarum.com/
+https://freeflarum.com/docs/tutorials/exporting-forum/ (Backup)
 https://www.gitkraken.com/
 ```
 # Requesting a feature
 
-If you would like a feature to be added to Shadow-Community please request it by opening a issue on GitHub and explaning why it would be of use to the project.
+If you would like a feature to be added to Shadow-Forum please request it by opening a issue on GitHub and explaning why it would be of use to the project.
 
 # DISCLAIMER
 
